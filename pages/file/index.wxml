@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+    <view class="text">
+        <view class="line_y"></view>
+        <text>文件列表</text>
+        <button class='btn-upload' bindtap='uploadFile'>文件上传</button>
+    </view>
+  
+    <block wx:for-items="{{items}}">
+        <view class="item">
+            <image src="{{item.image}}" class="slide-image"/>
+        </view>
+    </block>
+</view>

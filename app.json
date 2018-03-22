@@ -1,5 +1,6 @@
 {
   "pages":[
+    "pages/file/index",
     "pages/index/index",
     "pages/list/index",
     "pages/component/index",
@@ -9,7 +10,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "Small App",
+    "navigationBarTitleText": "wechatApp",
     "navigationBarBackgroundColor": "#0767c8",
     "backgroundColor": "#fbf9fe",
     "enablePullDownRefresh": true
@@ -39,6 +40,11 @@
       "iconPath": "image/icon_API.png",
       "selectedIconPath": "image/icon_API_HL.png",
       "text": "我的"
+    }, {
+      "pagePath": "pages/file/index",
+      "iconPath": "image/icon_API.png",
+      "selectedIconPath": "image/icon_API_HL.png",
+      "text": "文件"
     }]
   },
   "debug": true
