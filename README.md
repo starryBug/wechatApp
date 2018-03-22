@@ -20,5 +20,5 @@
 微信web开发者工具 v0.9.092300
 
 ### 项目地址：
----
-https://github.com/aidenzou/SmallApp
+---------
+https://gist.github.com/ae77697571e54b5c03c3633d87bf8333.git
