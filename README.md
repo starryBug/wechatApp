@@ -21,4 +21,4 @@
 
 ### 项目地址：
 ---------
-https://gist.github.com/0c5ec9afc0b7a2cae763a50f00104ecc.git
+https://github.com/starryBug/wechatApp.git
